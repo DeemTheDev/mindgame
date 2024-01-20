@@ -1,0 +1,694 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: ThemeCube Core\n"
+"POT-Creation-Date: 2016-03-16 15:53+0200\n"
+"PO-Revision-Date: 2016-03-16 15:53+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: tc_core.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: post_type.php:9
+msgctxt "Post Type General Name"
+msgid "Rooms"
+msgstr ""
+
+#: post_type.php:10
+msgctxt "Post Type Singular Name"
+msgid "Room"
+msgstr ""
+
+#: post_type.php:11
+msgid "Rooms"
+msgstr ""
+
+#: post_type.php:12 post_type.php:36
+msgid "Room"
+msgstr ""
+
+#: post_type.php:13
+msgid "Room Archives"
+msgstr ""
+
+#: post_type.php:14
+msgid "Parent Item:"
+msgstr ""
+
+#: post_type.php:15
+msgid "All Rooms"
+msgstr ""
+
+#: post_type.php:16
+msgid "Add New Room"
+msgstr ""
+
+#: post_type.php:17
+msgid "Add New"
+msgstr ""
+
+#: post_type.php:18
+msgid "New Room"
+msgstr ""
+
+#: post_type.php:19
+msgid "Edit Room"
+msgstr ""
+
+#: post_type.php:20
+msgid "Update Room"
+msgstr ""
+
+#: post_type.php:21
+msgid "View Room"
+msgstr ""
+
+#: post_type.php:22
+msgid "Search Room"
+msgstr ""
+
+#: post_type.php:23
+msgid "Not found"
+msgstr ""
+
+#: post_type.php:24
+msgid "Not found in Trash"
+msgstr ""
+
+#: post_type.php:25
+msgid "Featured Image"
+msgstr ""
+
+#: post_type.php:26
+msgid "Set featured image"
+msgstr ""
+
+#: post_type.php:27
+msgid "Remove featured image"
+msgstr ""
+
+#: post_type.php:28
+msgid "Use as featured image"
+msgstr ""
+
+#: post_type.php:29
+msgid "Insert into item"
+msgstr ""
+
+#: post_type.php:30
+msgid "Uploaded to this item"
+msgstr ""
+
+#: post_type.php:31
+msgid "Items list"
+msgstr ""
+
+#: post_type.php:32
+msgid "Items list navigation"
+msgstr ""
+
+#: post_type.php:33
+msgid "Filter items list"
+msgstr ""
+
+#: post_type.php:37
+msgid "Post Type Description"
+msgstr ""
+
+#: post_type.php:68
+msgctxt "post type general name"
+msgid "Testimonials"
+msgstr ""
+
+#: post_type.php:69
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: post_type.php:70
+msgctxt "admin menu"
+msgid "Testimonials"
+msgstr ""
+
+#: post_type.php:71
+msgctxt "add new on admin bar"
+msgid "Testimonial"
+msgstr ""
+
+#: post_type.php:72
+msgctxt "Testimonial"
+msgid "Add New Testimonial"
+msgstr ""
+
+#: post_type.php:73
+msgid "Add New Testimonial"
+msgstr ""
+
+#: post_type.php:74
+msgid "New Testimonial"
+msgstr ""
+
+#: post_type.php:75
+msgid "Edit Testimonial"
+msgstr ""
+
+#: post_type.php:76
+msgid "View Testimonial"
+msgstr ""
+
+#: post_type.php:77
+msgid "All Testimonials"
+msgstr ""
+
+#: post_type.php:78
+msgid "Search Testimonials"
+msgstr ""
+
+#: post_type.php:79
+msgid "Parent Testimonials:"
+msgstr ""
+
+#: post_type.php:80
+msgid "No Testimonials found."
+msgstr ""
+
+#: post_type.php:81
+msgid "No Testimonials found in Trash."
+msgstr ""
+
+#: tc_shortcode.php:49
+msgid "Button"
+msgstr ""
+
+#: tc_shortcode.php:52 tc_shortcode.php:173 tc_shortcode.php:304
+#: tc_shortcode.php:450 tc_shortcode.php:528 tc_shortcode.php:624
+#: tc_shortcode.php:690 tc_shortcode.php:766 tc_shortcode.php:946
+#: tc_shortcode.php:1002 tc_shortcode.php:1139 tc_shortcode.php:1184
+#: tc_shortcode.php:1341 tc_shortcode.php:1445
+msgid "ThemeCube Shortcodes"
+msgstr ""
+
+#: tc_shortcode.php:54
+msgid "Add button"
+msgstr ""
+
+#: tc_shortcode.php:59
+msgid "Button Size"
+msgstr ""
+
+#: tc_shortcode.php:62
+msgid "xsmall"
+msgstr ""
+
+#: tc_shortcode.php:63
+msgid "small"
+msgstr ""
+
+#: tc_shortcode.php:64
+msgid "medium"
+msgstr ""
+
+#: tc_shortcode.php:65
+msgid "big"
+msgstr ""
+
+#: tc_shortcode.php:71
+msgid "Style"
+msgstr ""
+
+#: tc_shortcode.php:74
+msgid "light"
+msgstr ""
+
+#: tc_shortcode.php:75
+msgid "dark"
+msgstr ""
+
+#: tc_shortcode.php:81 tc_shortcode.php:823
+msgid "Position"
+msgstr ""
+
+#: tc_shortcode.php:84 tc_shortcode.php:249 tc_shortcode.php:387
+msgid "center"
+msgstr ""
+
+#: tc_shortcode.php:85 tc_shortcode.php:250 tc_shortcode.php:388
+msgid "left"
+msgstr ""
+
+#: tc_shortcode.php:86 tc_shortcode.php:251 tc_shortcode.php:389
+msgid "right"
+msgstr ""
+
+#: tc_shortcode.php:93
+msgid "Href"
+msgstr ""
+
+#: tc_shortcode.php:100
+msgid "Open link in new window"
+msgstr ""
+
+#: tc_shortcode.php:103
+msgid "yes"
+msgstr ""
+
+#: tc_shortcode.php:104
+msgid "no"
+msgstr ""
+
+#: tc_shortcode.php:111 tc_shortcode.php:458 tc_shortcode.php:536
+#: tc_shortcode.php:632 tc_shortcode.php:954 tc_shortcode.php:1214
+msgid "Class"
+msgstr ""
+
+#: tc_shortcode.php:119 tc_shortcode.php:231 tc_shortcode.php:369
+#: tc_shortcode.php:1045 tc_shortcode.php:1539
+msgid "Content"
+msgstr ""
+
+#: tc_shortcode.php:171
+msgid "Info Box 2"
+msgstr ""
+
+#: tc_shortcode.php:175 tc_shortcode.php:306 tc_shortcode.php:1004
+msgid "Add an infobox"
+msgstr ""
+
+#: tc_shortcode.php:180 tc_shortcode.php:311 tc_shortcode.php:697
+#: tc_shortcode.php:1009
+msgid "Icon"
+msgstr ""
+
+#: tc_shortcode.php:187 tc_shortcode.php:318 tc_shortcode.php:704
+#: tc_shortcode.php:1016
+msgid "Select icon from library."
+msgstr ""
+
+#: tc_shortcode.php:192 tc_shortcode.php:323 tc_shortcode.php:710
+#: tc_shortcode.php:1021
+msgid "Icon Color"
+msgstr ""
+
+#: tc_shortcode.php:201 tc_shortcode.php:339 tc_shortcode.php:1030
+msgid "Icon Size"
+msgstr ""
+
+#: tc_shortcode.php:204 tc_shortcode.php:342 tc_shortcode.php:1033
+msgid "2x"
+msgstr ""
+
+#: tc_shortcode.php:205 tc_shortcode.php:343 tc_shortcode.php:1034
+msgid "3x"
+msgstr ""
+
+#: tc_shortcode.php:206 tc_shortcode.php:344 tc_shortcode.php:1035
+msgid "4x"
+msgstr ""
+
+#: tc_shortcode.php:207 tc_shortcode.php:345 tc_shortcode.php:1036
+msgid "5x"
+msgstr ""
+
+#: tc_shortcode.php:215 tc_shortcode.php:353
+msgid "Title"
+msgstr ""
+
+#: tc_shortcode.php:222 tc_shortcode.php:360
+msgid "Title Color"
+msgstr ""
+
+#: tc_shortcode.php:238 tc_shortcode.php:376 tc_shortcode.php:1052
+#: tc_shortcode.php:1546
+msgid "Content Color"
+msgstr ""
+
+#: tc_shortcode.php:246 tc_shortcode.php:384 tc_shortcode.php:834
+msgid "Alignment"
+msgstr ""
+
+#: tc_shortcode.php:302
+msgid "Info Box"
+msgstr ""
+
+#: tc_shortcode.php:331
+msgid "Icon Background Color"
+msgstr ""
+
+#: tc_shortcode.php:447
+msgid "News Carousel"
+msgstr ""
+
+#: tc_shortcode.php:452
+msgid "Add news carousel"
+msgstr ""
+
+#: tc_shortcode.php:504 tc_shortcode.php:512
+msgid "read more"
+msgstr ""
+
+#: tc_shortcode.php:525
+msgid "Rooms Carousel"
+msgstr ""
+
+#: tc_shortcode.php:530
+msgid "Add rooms carousel"
+msgstr ""
+
+#: tc_shortcode.php:597 tc_shortcode.php:604
+msgid "BOOK NOW"
+msgstr ""
+
+#: tc_shortcode.php:621
+msgid "Rooms Layout"
+msgstr ""
+
+#: tc_shortcode.php:626
+msgid "Add rooms layout"
+msgstr ""
+
+#: tc_shortcode.php:640
+msgid "How many items in a row?"
+msgstr ""
+
+#: tc_shortcode.php:644
+msgid "2 items"
+msgstr ""
+
+#: tc_shortcode.php:645
+msgid "3 items"
+msgstr ""
+
+#: tc_shortcode.php:646
+msgid "4 items"
+msgstr ""
+
+#: tc_shortcode.php:647
+msgid "6 items"
+msgstr ""
+
+#: tc_shortcode.php:688
+msgid "Funfact"
+msgstr ""
+
+#: tc_shortcode.php:692
+msgid "Add funfacts"
+msgstr ""
+
+#: tc_shortcode.php:719
+msgid "Counter"
+msgstr ""
+
+#: tc_shortcode.php:726
+msgid "Counter Color"
+msgstr ""
+
+#: tc_shortcode.php:734
+msgid "Counter title"
+msgstr ""
+
+#: tc_shortcode.php:741
+msgid "Counter Title Color"
+msgstr ""
+
+#: tc_shortcode.php:760
+msgid "ThemeCube Custom Tabs"
+msgstr ""
+
+#: tc_shortcode.php:767
+msgid "Tabbed content"
+msgstr ""
+
+#: tc_shortcode.php:772
+msgid "Widget title"
+msgstr ""
+
+#: tc_shortcode.php:773
+msgid "Enter text used as widget title (Note: located above content element)."
+msgstr ""
+
+#: tc_shortcode.php:779 tc_shortcode.php:800 tc_shortcode.php:841
+msgid "None"
+msgstr ""
+
+#: tc_shortcode.php:792
+msgid "Spacing"
+msgstr ""
+
+#: tc_shortcode.php:793
+msgid "Select tabs spacing."
+msgstr ""
+
+#: tc_shortcode.php:813
+msgid "Gap"
+msgstr ""
+
+#: tc_shortcode.php:814
+msgid "Select tabs gap."
+msgstr ""
+
+#: tc_shortcode.php:820
+msgid "Top"
+msgstr ""
+
+#: tc_shortcode.php:821
+msgid "Bottom"
+msgstr ""
+
+#: tc_shortcode.php:824
+msgid "Select tabs navigation position."
+msgstr ""
+
+#: tc_shortcode.php:830
+msgid "Left"
+msgstr ""
+
+#: tc_shortcode.php:831
+msgid "Right"
+msgstr ""
+
+#: tc_shortcode.php:832
+msgid "Center"
+msgstr ""
+
+#: tc_shortcode.php:835
+msgid "Select tabs section title alignment."
+msgstr ""
+
+#: tc_shortcode.php:855 tc_shortcode.php:1161
+msgid "Autoplay"
+msgstr ""
+
+#: tc_shortcode.php:856
+msgid "Select auto rotate for tabs in seconds (Note: disabled by default)."
+msgstr ""
+
+#: tc_shortcode.php:861
+msgid "Active section"
+msgstr ""
+
+#: tc_shortcode.php:863
+msgid ""
+"Enter active section number (Note: to have all sections closed on initial "
+"load enter non-existing number)."
+msgstr ""
+
+#: tc_shortcode.php:867
+msgid "CSS box"
+msgstr ""
+
+#: tc_shortcode.php:869
+msgid "Design Options"
+msgstr ""
+
+#: tc_shortcode.php:887 tc_shortcode.php:888
+msgid "Tab"
+msgstr ""
+
+#: tc_shortcode.php:943
+msgid "Testimonials"
+msgstr ""
+
+#: tc_shortcode.php:948
+msgid "Add testimonials layout"
+msgstr ""
+
+#: tc_shortcode.php:1000
+msgid "Contact Box"
+msgstr ""
+
+#: tc_shortcode.php:1133
+msgid "ThemeCube Carousel"
+msgstr ""
+
+#: tc_shortcode.php:1141
+msgid "Add carousel"
+msgstr ""
+
+#: tc_shortcode.php:1147
+msgid "ID"
+msgstr ""
+
+#: tc_shortcode.php:1154
+msgid "Slide Count"
+msgstr ""
+
+#: tc_shortcode.php:1164
+msgid "Autoplay: true, false or ex. 3000"
+msgstr ""
+
+#: tc_shortcode.php:1169
+msgid "Single Item"
+msgstr ""
+
+#: tc_shortcode.php:1172
+msgid "Single item: true or false"
+msgstr ""
+
+#: tc_shortcode.php:1179
+msgid "Image"
+msgstr ""
+
+#: tc_shortcode.php:1186
+msgid "Add an image"
+msgstr ""
+
+#: tc_shortcode.php:1192
+msgid "Path of image"
+msgstr ""
+
+#: tc_shortcode.php:1199
+msgid "Link for image"
+msgstr ""
+
+#: tc_shortcode.php:1206
+msgid "Alt"
+msgstr ""
+
+#: tc_shortcode.php:1209
+msgid "alt"
+msgstr ""
+
+#: tc_shortcode.php:1338
+msgid "Custom Google Map"
+msgstr ""
+
+#: tc_shortcode.php:1343 tc_shortcode.php:1447
+msgid "Add google map"
+msgstr ""
+
+#: tc_shortcode.php:1349
+msgid "Map ID"
+msgstr ""
+
+#: tc_shortcode.php:1358
+msgid "Map Height"
+msgstr ""
+
+#: tc_shortcode.php:1361
+msgid "Ex. 230px"
+msgstr ""
+
+#: tc_shortcode.php:1442
+msgid "Instagram Feed"
+msgstr ""
+
+#: tc_shortcode.php:1452
+msgid "Get images from"
+msgstr ""
+
+#: tc_shortcode.php:1455 tc_shortcode.php:1463
+msgid "Tag"
+msgstr ""
+
+#: tc_shortcode.php:1456
+msgid "User"
+msgstr ""
+
+#: tc_shortcode.php:1470
+msgid "Images with a specific tag"
+msgstr ""
+
+#: tc_shortcode.php:1477
+msgid "User ID"
+msgstr ""
+
+#: tc_shortcode.php:1484
+msgid ""
+"If you do not know your account ID, Google What is my Instagram account ID? "
+"There are several free tools available online that will look it up for you."
+msgstr ""
+
+#: tc_shortcode.php:1491
+msgid "Client ID"
+msgstr ""
+
+#: tc_shortcode.php:1494
+msgid "Your API client id from Instagram."
+msgstr ""
+
+#: tc_shortcode.php:1500
+msgid "Limit"
+msgstr ""
+
+#: tc_shortcode.php:1503
+msgid "default 60"
+msgstr ""
+
+#: tc_shortcode.php:1508
+msgid "Images resolution"
+msgstr ""
+
+#: tc_shortcode.php:1511
+msgid "Thumbnail"
+msgstr ""
+
+#: tc_shortcode.php:1512
+msgid "Low Resolution"
+msgstr ""
+
+#: tc_shortcode.php:1513
+msgid "Standart Resolution"
+msgstr ""
+
+#: tc_shortcode.php:1521
+msgid "Header"
+msgstr ""
+
+#: tc_shortcode.php:1524
+msgid "Optional"
+msgstr ""
+
+#: tc_shortcode.php:1530
+msgid "Header Color"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "ThemeCube Core"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://themecube.net"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Escape Wordpress Theme shortcodes"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "themecube"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/themecube"
+msgstr ""

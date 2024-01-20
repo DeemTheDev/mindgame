@@ -1,0 +1,327 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('../fonts/icomoon.eot?yb43cw');
+    src:    url('../fonts/icomoon.eot?yb43cw#iefix') format('embedded-opentype'),
+        url('../fonts/icomoon.ttf?yb43cw') format('truetype'),
+        url('../fonts/icomoon.woff?yb43cw') format('woff'),
+        url('../fonts/icomoon.svg?yb43cw#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-abacus:before {
+    content: "\e900";
+}
+.icon-agenda:before {
+    content: "\e901";
+}
+.icon-alarm-clock:before {
+    content: "\e902";
+}
+.icon-attach:before {
+    content: "\e903";
+}
+.icon-audio-sign:before {
+    content: "\e904";
+}
+.icon-bitcoin-symbol:before {
+    content: "\e905";
+}
+.icon-blackboard-with-chart:before {
+    content: "\e906";
+}
+.icon-blank-document:before {
+    content: "\e907";
+}
+.icon-book:before {
+    content: "\e908";
+}
+.icon-briefcase:before {
+    content: "\e909";
+}
+.icon-calculator:before {
+    content: "\e90a";
+}
+.icon-camera:before {
+    content: "\e90b";
+}
+.icon-cancel-credit-card:before {
+    content: "\e90c";
+}
+.icon-change-purse:before {
+    content: "\e90d";
+}
+.icon-chat-bubbles:before {
+    content: "\e90e";
+}
+.icon-clipboard-with-notes:before {
+    content: "\e90f";
+}
+.icon-clipboard:before {
+    content: "\e910";
+}
+.icon-cloud:before {
+    content: "\e911";
+}
+.icon-compact-disc:before {
+    content: "\e912";
+}
+.icon-compass:before {
+    content: "\e913";
+}
+.icon-computer-screen:before {
+    content: "\e914";
+}
+.icon-connection-between-computer-and-smartphone:before {
+    content: "\e915";
+}
+.icon-credit-card:before {
+    content: "\e916";
+}
+.icon-cup:before {
+    content: "\e917";
+}
+.icon-dartboard:before {
+    content: "\e918";
+}
+.icon-day-15-on-calendar:before {
+    content: "\e919";
+}
+.icon-dollar-sing:before {
+    content: "\e91a";
+}
+.icon-dustbin:before {
+    content: "\e91b";
+}
+.icon-e-lab-instrument:before {
+    content: "\e91c";
+}
+.icon-equalizing-bars:before {
+    content: "\e91d";
+}
+.icon-euro-sign:before {
+    content: "\e91e";
+}
+.icon-exam:before {
+    content: "\e91f";
+}
+.icon-folder-with-documents:before {
+    content: "\e920";
+}
+.icon-gift-box-with-a-ribbon:before {
+    content: "\e921";
+}
+.icon-globe:before {
+    content: "\e922";
+}
+.icon-gold-bars:before {
+    content: "\e923";
+}
+.icon-groceries-store:before {
+    content: "\e924";
+}
+.icon-id-card:before {
+    content: "\e925";
+}
+.icon-justice-balance:before {
+    content: "\e926";
+}
+.icon-landscape-picture:before {
+    content: "\e927";
+}
+.icon-laptop:before {
+    content: "\e928";
+}
+.icon-lifeguard-float:before {
+    content: "\e929";
+}
+.icon-light-bulb:before {
+    content: "\e92a";
+}
+.icon-lock:before {
+    content: "\e92b";
+}
+.icon-lot-of-money:before {
+    content: "\e92c";
+}
+.icon-map:before {
+    content: "\e92d";
+}
+.icon-mathematical-operators:before {
+    content: "\e92e";
+}
+.icon-megaphone:before {
+    content: "\e92f";
+}
+.icon-men-avatar:before {
+    content: "\e930";
+}
+.icon-money-bag:before {
+    content: "\e931";
+}
+.icon-money-exchange:before {
+    content: "\e932";
+}
+.icon-musseum:before {
+    content: "\e933";
+}
+.icon-necktie:before {
+    content: "\e934";
+}
+.icon-online-shopping:before {
+    content: "\e935";
+}
+.icon-open-mail:before {
+    content: "\e936";
+}
+.icon-paper-airplane:before {
+    content: "\e937";
+}
+.icon-percentage-symbol:before {
+    content: "\e938";
+}
+.icon-phone-reciever:before {
+    content: "\e939";
+}
+.icon-phone:before {
+    content: "\e93a";
+}
+.icon-pie-chart:before {
+    content: "\e93b";
+}
+.icon-piggy-bank:before {
+    content: "\e93c";
+}
+.icon-pound-symbol:before {
+    content: "\e93d";
+}
+.icon-power-button:before {
+    content: "\e93e";
+}
+.icon-price-ticket:before {
+    content: "\e93f";
+}
+.icon-printer:before {
+    content: "\e940";
+}
+.icon-projection-screen-with-bar-chart:before {
+    content: "\e941";
+}
+.icon-refreshment:before {
+    content: "\e942";
+}
+.icon-rouble-symbol:before {
+    content: "\e943";
+}
+.icon-sand-clock:before {
+    content: "\e944";
+}
+.icon-science-test:before {
+    content: "\e945";
+}
+.icon-scientist-avatar:before {
+    content: "\e946";
+}
+.icon-searching-tool:before {
+    content: "\e947";
+}
+.icon-sell-icon:before {
+    content: "\e948";
+}
+.icon-sheet-of-newspaper:before {
+    content: "\e949";
+}
+.icon-sheet-of-torn-paper:before {
+    content: "\e94a";
+}
+.icon-shiny-diamond:before {
+    content: "\e94b";
+}
+.icon-shopping-basket:before {
+    content: "\e94c";
+}
+.icon-shopping-cart:before {
+    content: "\e94d";
+}
+.icon-smartphone-1:before {
+    content: "\e94e";
+}
+.icon-smartphone-chat:before {
+    content: "\e94f";
+}
+.icon-smartphone:before {
+    content: "\e950";
+}
+.icon-stack-of-bills:before {
+    content: "\e951";
+}
+.icon-storm-cloud:before {
+    content: "\e952";
+}
+.icon-taking-notes:before {
+    content: "\e953";
+}
+.icon-telemarketer:before {
+    content: "\e954";
+}
+.icon-telephone:before {
+    content: "\e955";
+}
+.icon-text-and-image-document:before {
+    content: "\e956";
+}
+.icon-text-document-with-title:before {
+    content: "\e957";
+}
+.icon-text-document:before {
+    content: "\e958";
+}
+.icon-thinking-head-1:before {
+    content: "\e959";
+}
+.icon-thinking-head:before {
+    content: "\e95a";
+}
+.icon-thumb-down:before {
+    content: "\e95b";
+}
+.icon-thumb-up:before {
+    content: "\e95c";
+}
+.icon-tool:before {
+    content: "\e95d";
+}
+.icon-user-network:before {
+    content: "\e95e";
+}
+.icon-wall-clock:before {
+    content: "\e95f";
+}
+.icon-weekly-calendar:before {
+    content: "\e960";
+}
+.icon-withdrawing-money-from-atm:before {
+    content: "\e961";
+}
+.icon-womans-avatar:before {
+    content: "\e962";
+}
+.icon-yen-symbol:before {
+    content: "\e963";
+}
+

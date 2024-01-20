@@ -1,0 +1,8 @@
+.rAds img {
+	display:none !important;
+}
+
+.redux-message,
+.redux-notice {
+	display:none !important;
+}

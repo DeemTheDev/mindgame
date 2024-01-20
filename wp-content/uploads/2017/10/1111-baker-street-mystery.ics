@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WooThemes//WooCommerce Bookings 1.10.8//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Mindgame Escape Room
+X-ORIGINAL-URL:https://www.mindgame.co.za/
+X-WR-CALDESC:Bookings from Mindgame Escape Room
+X-WR-TIMEZONE:Africa/Johannesburg
+BEGIN:VEVENT
+DTEND:20171003T110000
+UID:wc_bookings_1111
+DTSTAMP:20171002T152511
+LOCATION:
+DESCRIPTION:Person(s): 2\n\nBooking description:\nCan you solve the baker street mystery?
+URL;VALUE=URI:https://www.mindgame.co.za/my-account/view-order/1112
+SUMMARY:#1111 - Baker Street Mystery
+DTSTART:20171003T100000
+END:VEVENT
+END:VCALENDAR

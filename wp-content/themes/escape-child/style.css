@@ -1,0 +1,11 @@
+/*
+Theme Name: Escape Child Theme
+Theme URI: http://www.themecu.be/escape
+Description: This is child theme of Escape
+Author: ThemeCube
+Author URI: http://www.themeforest.net/themecube
+Template: escape
+Version: 1.0
+Text Domain: escape
+*/
+@import url("../escape/style.css");

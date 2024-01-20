@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WooThemes//WooCommerce Bookings 1.10.8//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Mindgame Escape Room
+X-ORIGINAL-URL:https://www.mindgame.co.za/
+X-WR-CALDESC:Bookings from Mindgame Escape Room
+X-WR-TIMEZONE:Africa/Johannesburg
+BEGIN:VEVENT
+DTEND:20171001T183000
+UID:wc_bookings_1030
+DTSTAMP:20170930T200124
+LOCATION:
+DESCRIPTION:Person(s): 1\n\n
+URL;VALUE=URI:https://www.mindgame.co.za/my-account/view-order/1031
+SUMMARY:#1030 - Escape Room Adventure
+DTSTART:20171001T173000
+END:VEVENT
+END:VCALENDAR
