@@ -1,0 +1,30 @@
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+Redirect permanent /product/bakerstreet/ https://www.mindgame.co.za/room/sherlock-holmes/
+Redirect permanent /product/houdini/ https://www.mindgame.co.za/room/houdini/
+Redirect permanent /shop__trashed/ https://www.mindgame.co.za/book/
+Redirect permanent /book-now/ https://www.mindgame.co.za/book/
+
+RewriteCond %{QUERY_STRING} ^post_type=wc_booking$ [NC]
+RewriteRule ^(.*)$ https://www.mindgame.co.za/wp-admin/edit.php?post_type=wc_booking&orderby=start_date&order=asc [NC,L,R=301]
